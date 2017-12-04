@@ -1,3 +1,8 @@
+"""
+	Autor: Levy Santiago
+	Última modificação: 04/12/2017
+"""
+
 import pygame
 
 class objeto():

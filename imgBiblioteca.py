@@ -1,3 +1,8 @@
+"""
+	Autor: Levy Santiago
+	Última modificação: 04/12/2017
+"""
+
 from random import randint
 from area import *
 from campo import *

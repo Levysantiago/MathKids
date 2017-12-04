@@ -1,3 +1,8 @@
+"""
+	Autor: Levy Santiago
+	Última modificação: 04/12/2017
+"""
+
 from campo import *
 from sympy import sqrt
 from area import *
